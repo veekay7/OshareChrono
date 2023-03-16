@@ -1,6 +1,6 @@
-# Chrono
+# Osyare Chrono (おしゃれクロノ)
 
-Chrono was developed for a UI/UX programming challenge. The challenge was to make a clock application that was to be used at work.
+Oshare Chrono is a clock application that was developed for a UI/UX programming challenge. The requirements was that this clock was to be used at work and can be used by workers to track their working time together with other applications.
 I designed the UI, UI layout, the radial graphic and coded it.
 
 ## Features:
