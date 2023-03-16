@@ -1,0 +1,25 @@
+{
+    "name": "TxChronoAssembly",
+    "rootNamespace": "Assembly-CSharp",
+    "references": [
+        "GUID:637dfb2b87b2cf0499a8da5b0b91da54",
+        "GUID:82c7e6eac44d7e048b22ad98800dcfc7",
+        "GUID:247a163e3cc6efb42bd22b9023b87ff3",
+        "GUID:cc9b1dbcea8af584ba492afeb67a12da",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:cf414061cae3a954baf92763590f3127",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:27619889b8ba8c24980f49ee34dbb44a",
+        "GUID:0acc523941302664db1f4e527237feb3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
