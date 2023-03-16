@@ -1,7 +1,7 @@
 # Chrono
 
 Chrono was developed for a UI/UX programming challenge. The challenge was to make a clock application that was to be used at work.
-The application has the following features:
+I designed the UI, UI layout, the radial graphic and coded it.
 
 ## Features:
 **Clock**
@@ -26,3 +26,11 @@ The application has the following features:
 - 1/100 stopwatch
 - Maximum time is 59:99.999 minutes each .
 - Can count for up to 24 hours max.
+
+Packages used:
+- Lean GUI
+- DOTween
+
+Asset packs used:
+- Kenney UI Pack (https://www.kenney.nl/assets/ui-pack)
+- flaticon (https://www.flaticon.com/)
