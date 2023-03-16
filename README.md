@@ -8,9 +8,13 @@ I designed the UI, UI layout, the radial graphic and coded it.
 ![Clock View](https://user-images.githubusercontent.com/9075833/225640182-3d851e1d-9be0-4b80-880a-cb8593ba7c1f.png)
 
 - Bauhaus-inspired display with radial design.
+  - Innermost circle represents the hour. The circle changes colours depending on the time of day to represent the day-night cycle. It changes to blue when the time is 6:30 P.M (to represent night) and turns red when the time is 6:30 a.m. (to represent day time).
+  - Middle ring represents the minutes.
+  - Outer ring represents the seconds.
 - 12-hour digital format.
 - User's current time zone display.
 - Shows the user's current time in their timezone.
+- From the inside: Innermost is Hour, middle ring represents the Minute and outer most 
 
 **Countdown Timer**
 ![Countdown Timer View](https://user-images.githubusercontent.com/9075833/225640667-bca4f855-fe64-453b-b4d5-298545294bac.png)
